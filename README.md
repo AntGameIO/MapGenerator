@@ -1,4 +1,4 @@
-# To generate a map
+# How to generate a map
 1. Clone the repo and run 
 ```
 npm i
